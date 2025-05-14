@@ -1,0 +1,9 @@
+in project folder terminal, write pip install playwright
+
+then write playwright install (on linux)
+
+or python -m playwright install on windows
+
+then run the project by command python or python3 test.py
+
+u can run project in headless mode by adding --headless in the end of the line
